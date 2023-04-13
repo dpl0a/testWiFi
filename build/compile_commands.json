@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dpl0a/Documents/testWifi/build",
+  "command": "/usr/bin/c++  -I/home/dpl0a/Documents/testWifi/src -isystem /usr/include/c++/11 -isystem /usr/include/x86_64-linux-gnu/c++/11 -isystem /usr/include/c++/11/backward -isystem /usr/lib/gcc/x86_64-linux-gnu/11/include -isystem /usr/local/include -isystem /usr/include/x86_64-linux-gnu -isystem /usr/include -std=gnu++17 -o CMakeFiles/testWifi.dir/main.cpp.o -c /home/dpl0a/Documents/testWifi/main.cpp",
+  "file": "/home/dpl0a/Documents/testWifi/main.cpp"
+},
+{
+  "directory": "/home/dpl0a/Documents/testWifi/build",
+  "command": "/usr/bin/cc  -I/home/dpl0a/Documents/testWifi/src  -o CMakeFiles/testWifi.dir/src/wpa_ctrl.c.o -c /home/dpl0a/Documents/testWifi/src/wpa_ctrl.c",
+  "file": "/home/dpl0a/Documents/testWifi/src/wpa_ctrl.c"
+}
+]

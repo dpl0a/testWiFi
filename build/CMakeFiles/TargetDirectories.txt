@@ -1,0 +1,3 @@
+/home/dpl0a/Documents/testWifi/build/CMakeFiles/testWifi.dir
+/home/dpl0a/Documents/testWifi/build/CMakeFiles/edit_cache.dir
+/home/dpl0a/Documents/testWifi/build/CMakeFiles/rebuild_cache.dir
